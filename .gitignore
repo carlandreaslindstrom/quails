@@ -1,0 +1,11 @@
+# ignore all other files than the example
+/files/*
+!/files/example.nb
+
+# ignore ELEGANT output
+/elegant/*.bun
+/elegant/*.lte
+/elegant/*.ele
+
+# misc
+/elegant/phaseSpacePlot.m
